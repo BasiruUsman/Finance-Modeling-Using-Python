@@ -1,0 +1,13 @@
+﻿Category,Ticker,Meaning,Notes
+U.S. Company Stocks,AAPL.O,Apple Inc.,NASDAQ-listed ('.O')
+U.S. Company Stocks,MSFT.O,Microsoft Corp.,NASDAQ-listed ('.O')
+U.S. Company Stocks,INTC.O,Intel Corp.,NASDAQ-listed ('.O')
+U.S. Company Stocks,AMZN.O,Amazon.com Inc.,NASDAQ-listed ('.O')
+U.S. Company Stocks,GS.N,Goldman Sachs Group Inc.,NYSE-listed ('.N')
+Indices and ETFs,SPY,SPDR S&P 500 ETF Trust,ETF tracking S&P 500
+Indices and ETFs,.SPX,S&P 500 Index,Index (dot prefix)
+Indices and ETFs,.VIX,CBOE Volatility Index,Market volatility gauge (index)
+Currencies and Commodities,EUR=,EUR/USD,"Currency pair (FX, '=' suffix)"
+Currencies and Commodities,XAU=,Gold vs USD (XAU/USD),"Gold priced in USD (FX, '=' suffix)"
+Gold-related ETFs / Stocks,GDX,VanEck Gold Miners ETF,Tracks gold-mining companies
+Gold-related ETFs / Stocks,GLD,SPDR Gold Shares ETF,Tracks spot price of gold
